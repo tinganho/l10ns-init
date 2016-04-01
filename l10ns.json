@@ -20,8 +20,8 @@
       "store": "localizations//",
       "output": "localizations//output",
       "source": [
-		  "test.js"
-	  ]
+         "test.js"
+      ]
     }
   }
 }
